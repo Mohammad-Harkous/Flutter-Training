@@ -8,7 +8,10 @@ Press the button to roll the dice
 
 ![Roll Dice image](./assets/images/roll_dice.png) 
 
+<img src='./assets/images/roll_dice.png' width ="250" height="500">
+
 ### Gif Image:
 
-![Roll Dice image](./assets/images/roll_dicegif.gif) 
+<img src='./assets/images/roll_dicegif.gif' width ="250" height="500">
+
 
