@@ -1,16 +1,29 @@
 # quiz_app
 
-A new Flutter project.
+Press the button to start the quiz
 
-## Getting Started
+## App Demo
 
-This project is a starting point for a Flutter application.
+### App ScreenShot:
 
-A few resources to get you started if this is your first Flutter project:
+<style>
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ </style>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class='images'>
+<img src='./assets/images/image_1.png' width ="250" height="500"> 
+
+<img src='./assets/images/image_2.png' width ="250" height="500"> 
+
+</div>
+
+### Gif Image:
+
+<img src='./assets/images/quiz.gif' width ="250" height="500">
+
+
