@@ -1,31 +1,15 @@
-# quiz_app
+# roll_dice
 
-Press the button to start the quiz
+Press the button to roll the dice 
 
 ## App Demo
 
 ### App ScreenShot:
 
-<style>
-.images {
-    display: flex;
-    justify-content: space-between
-    
-}
-
- </style>
-
-<div class='images'>
-<img src='./assets/images/image_1.png' width ="250" height="500"> 
-
-<img src='./assets/images/image_2.png' width ="250" height="500"> 
-
-<img src='./assets/images/image_3.png' width ="250" height="500">
-
-</div>
+<img src='./assets/images/roll_dice.png' width ="250" height="500">
 
 ### Gif Image:
 
-<img src='./assets/images/quiz.gif' width ="250" height="500">
+<img src='./assets/images/roll_dicegif.gif' width ="250" height="500">
 
 
