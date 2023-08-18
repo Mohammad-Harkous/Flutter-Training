@@ -6,17 +6,9 @@ Press the button to start the quiz
 
 ### App ScreenShot:
 
-<style>
-.images {
-    display: flex;
-    justify-content: space-evenly;
-    
-}
+<div style= "display: flex; justify-content: center;">
 
- </style>
-
-<div class='images'>
-<img src='./assets/images/image_1.png' width ="250" height="500"> 
+<img src='./assets/images/image_1.png' width ="250" height="500" style="margin-right:150px"> 
 
 <img src='./assets/images/image_2.png' width ="250" height="500"> 
 
