@@ -98,6 +98,7 @@ class _ExpensesState extends State<Expenses> {
               ],
             )
           : Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Expanded(
                   child: Chart(expenses: _registeredExpense),
