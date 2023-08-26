@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 import 'package:expense_tracker/widgets/expenses.dart';
 
@@ -14,6 +15,9 @@ var KDarkColorScheme = ColorScheme.fromSeed(
 );
 
 void main() {
+  SystemChrome.setPreferredOrientations([
+    // DeviceOrientation.portraitUp,
+  ]);
   runApp(
     MaterialApp(
       darkTheme: ThemeData.dark().copyWith(
@@ -28,9 +32,9 @@ void main() {
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-              backgroundColor: KDarkColorScheme.primaryContainer,
-              foregroundColor: KDarkColorScheme.onPrimaryContainer,
-              ),
+            backgroundColor: KDarkColorScheme.primaryContainer,
+            foregroundColor: KDarkColorScheme.onPrimaryContainer,
+          ),
         ),
       ),
       theme: ThemeData().copyWith(
