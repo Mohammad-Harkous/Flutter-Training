@@ -6,7 +6,7 @@ A new Flutter project.
 
 ### App ScreenShot:
 
-<div style= "display: flex; flex-direction: column; justify-content: space-around;">
+<div style= "display: block;">
 
 <img src='./assets/images/image_1.png' width ="250" height="500" > 
 
